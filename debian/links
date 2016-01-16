@@ -1,0 +1,3 @@
+usr/share/openshot-qt/launch-openshot usr/bin/openshot-qt
+usr/share/javascript/jquery/jquery.js usr/share/openshot-qt/openshot_qt/timeline/media/js/jquery.js
+usr/share/javascript/jquery/jquery.js usr/share/doc/openshot-qt/html/jquery.js

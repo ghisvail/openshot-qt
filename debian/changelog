@@ -1,0 +1,5 @@
+openshot-qt (2.0.4-1) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #810788
+
+ -- Ghislain Antony Vaillant <ghisvail@gmail.com>  Fri, 15 Jan 2016 23:59:12 +0000

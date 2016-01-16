@@ -1,0 +1,5 @@
+openshot-qt source: source-is-missing src/timeline/js/controllers.js
+openshot-qt source: source-is-missing src/timeline/media/js/angular-animate.min.js
+openshot-qt source: source-is-missing src/timeline/media/js/angular.min.js
+openshot-qt source: source-is-missing src/timeline/media/js/jquery-ui.js
+openshot-qt source: source-is-missing src/timeline/media/js/ui-bootstrap-tpls-0.7.0.min.js
